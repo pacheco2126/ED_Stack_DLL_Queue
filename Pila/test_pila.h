@@ -1,0 +1,9 @@
+void pruebaApilar(int* numOks, int* numErrors);
+void pruebaCim(int* numOks, int* numErrors);
+void pruebaCrear(int* numOks, int* numErrors);
+void pruebaEsbuida(int* numOks, int* numErrors);
+void pruebaEsplena(int* numOks, int* numErrors);
+void pruebaDuplicar(int* numOks, int* numErrors);
+void pruebaMultip(int* numOks, int* numErrors);
+void pruebaPermutacion(int* numOks, int* numErrors);
+void test(int* numOks, int* numErrors);
